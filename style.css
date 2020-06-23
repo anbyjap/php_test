@@ -42,5 +42,8 @@ header li{
 
 .main p {
     font-size: 50px;
+}
 
+.main input{
+    font-size: 60px;
 }
