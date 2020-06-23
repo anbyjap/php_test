@@ -6,13 +6,13 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(salmon,orange);
+    background: linear-gradient(blue,red);
     font-family: 'Oswald', sans-serif;
 }
 
 header {
     height: 10vh;
-    background-color: white;
+    background-color: White;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -42,6 +42,5 @@ header li{
 
 .main p {
     font-size: 50px;
-    
-}
 
+}
