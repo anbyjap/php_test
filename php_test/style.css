@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(blue,red);
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    height: 10vh;
+    background-color: White;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header p {
+    font-size: 40px;
+    min-width: 40%;
+}
+
+header ul{
+    display: flex;
+    width: 30%;
+    justify-content: flex-end;
+    justify-content: space-evenly;
+}
+header li{
+    list-style: none;
+}
+
+.main {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main p {
+    font-size: 50px;
+}
+
+.main input{
+    font-size: 60px;
+    width: 40%;
+}
+
+.main button{
+    height: 70px;
+    width: 40px;
+}
