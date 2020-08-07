@@ -46,4 +46,10 @@ header li{
 
 .main input{
     font-size: 60px;
+    width: 40%;
+}
+
+.main button{
+    height: 70px;
+    width: 40px;
 }
